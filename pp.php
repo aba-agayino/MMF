@@ -6,3 +6,4 @@
  * Time: 12:13
  * To change this template use File | Settings | File Templates.
  */
+echo "oioioi";
